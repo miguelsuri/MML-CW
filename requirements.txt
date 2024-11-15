@@ -1,2 +1,7 @@
 numpy
 torch
+tqdm
+scikit-learn
+transformers
+matplotlib
+seaborn
