@@ -1,6 +1,12 @@
-# MML-CW
+# Resolving Kryptonite-$n$: How Model Design Matters
 
-Repository for the MML Coursework.
+This is the repository for the COMP70015 Coursework, titled _Resolving Kryptonite-$n$: How Model Design Matters_.
+
+The members of the group are:
+- Javier Paez Franco
+- Fabian Alexander Bermana
+- Miguel Suriol Alfonso
+- Duong Ha
 
 ## Installation
 
@@ -12,4 +18,5 @@ pip install -r requirements.txt
 
 ## Usage
 
-Please run the jupyter notebooks in this repository.
+The code is divided into several Jupyter Notebooks, each of which contains the code for a specific task:
+- TODO
