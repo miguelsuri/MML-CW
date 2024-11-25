@@ -30,8 +30,8 @@ Overall structure:
 Scripts:
 
 - `clustering.ipnyb`: Jupyter notebook containing the code for the clustering analysis, using a Gaussian Mixture Model.
-- `feedforwardNN.ipnyb`: TODO
-- `feedforwardNN2.ipnyb`: TODO
+- `feedforwardNN_first_implementation.ipnyb`: Jupyter notebook of our initial implementation of the neural network. It is kept because it was as a base for the hyper-parameter tuning of the NN and also because it was used to generate some of the graphs in our paper. For example, all of the data pre-processing graphs in the apendix.
+- `feedforwardNN_hyper_paremeter_tuning.ipnyb`: Jupyter notebook containing the the hyper parameter tuning, cross validation, and result analysis for the neural network.
 - `k_nearest_neighbours.ipnyb`: Jupyter notebook containing the code for the k-Nearest Neighbours analysis with hyperparameter optimisation.
 - `polynomial_logistic_regression.ipnyb`: Jupyter notebook containing the code for the polynomial regression analysis, based on the original Kryptonite paper.
 - `random_forest.ipnyb`: Jupyter notebook containing the code for the Random Forest analysis with hyperparameter optimisation.
@@ -39,4 +39,3 @@ Scripts:
 - `mcnemar_test.ipnyb`: Jupyter notebook containing the code for the McNemar test analysis. It computes the p-values for the McNemar test for the different models.
 - `train_test_split.ipnyb`: Jupyter notebook containing the code for splitting the dataset into training and testing sets.
 - `vis.ipnyb`: Jupyter notebook containing the code for the visualisation of the dataset, used in Section 4.2 of the paper.
-- `vis_model_accuracies.ipnyb`: TODO
